@@ -1,0 +1,10 @@
+{
+  "name": "URL",
+  "repository": "git@github.com:CKUpdate/URL.git",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "keywords": [
+    "flatten"
+  ]
+}
